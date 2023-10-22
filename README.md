@@ -1,5 +1,5 @@
 # Flappy Bird Python
- Flappy Bird coded in Python
+ Flappy Bird coded in Python using pygame
 
 Fully functioning flappy bird game coded entirely in python. Uses images provided in the sprite class to give it the original look but can be modified to change the background, ground, pipes, and bird into different sprites.
 
